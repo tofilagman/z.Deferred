@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>tofilagman</Authors>
+    <Company>exia</Company>
   </PropertyGroup>
 
 </Project>
